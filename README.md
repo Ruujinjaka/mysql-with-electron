@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
@@ -43,3 +44,7 @@ Note: If you're using Linux Bash for Windows, [see this guide](https://www.howto
 ## License
 
 [CC0 1.0 (Public Domain)](LICENSE.md)
+=======
+# mysql with electron
+How to use electron with mysql
+>>>>>>> acd417c2c3f0bc2b67a573a851ffed7cfbc210c9
