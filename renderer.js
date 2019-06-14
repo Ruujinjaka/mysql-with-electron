@@ -10,7 +10,7 @@ document.getElementById('btn').addEventListener('click', () => {
     const connection = mysql.createConnection({
         host: "localhost",
         user: "root",
-        password: "sheed721",
+        password: null,
         database: "EmployeeDb"
     });
 
